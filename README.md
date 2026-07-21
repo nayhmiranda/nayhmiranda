@@ -45,12 +45,8 @@
 - **🧫 BioCalc** — Calculadora microbiológica em Python: médias, desvio padrão, curvas de crescimento e comparação entre grupos
 - **📊 Miniprojeto_NahyaraMiranda_Analise_de_Dados_T1** — Mini-projeto avaliativo de Análise de Dados da SCTEC (Turma 1), em Python
 
-📊 Estatísticas
+### 📊 Estatísticas
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayhmiranda&layout=compact&theme=tokyonight&hide_border=true&title_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nayhmiranda&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E9EF7&text_color=c9d1d9&bg_color=0d1117"/>
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayhmiranda&theme=tokyonight&hide_border=true&background=0d1117&ring=2E9EF7&fire=8E2DE2"/>
 </p>
